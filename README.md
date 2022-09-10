@@ -1,4 +1,3 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <h4>Hi, I'm <a href>Ademola Quozeem</a></h4>
 
 Quozeem is a Software Full-Stack developer with the use of sophisticated programming languages along side with Third Party Api. He’s prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡.
@@ -9,8 +8,10 @@ Quozeem is a Software Full-Stack developer with the use of sophisticated program
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/72305068/189480718-fd371310-f6a2-4901-8b49-e338dd9a0cf6.svg)
 
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/72305068/189480741-0e1cfbeb-07db-46ca-8c33-e0768c70212c.svg)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Saas](https://th.bing.com/th/id/OIP.KTM0ONG5WfZEYuqOTjcY9gHaGa?w=177&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7)
+
 <!--
 **Quozeem/Quozeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
