@@ -1,4 +1,4 @@
-### Hi I'm <h4 style="color:blue">Ademola Quozeem</h4>
+<h4 style="color:blue">I'm Ademola Quozeem</h4>
 <hr>
 Quozeem is a Software Full-Stack developer with the use of sophisticated programming languages along side with Third Party Api. He’s prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages .
 
