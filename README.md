@@ -1,9 +1,12 @@
-<h4 style="color:blue;text-align:center">I'm Ademola Quozeem</h4>
-<hr>
-Quozeem is a Software Full-Stack developer with the use of sophisticated programming languages along side with Third Party Api. He’s prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages .
-
-<h2>Passionate Web Developer | Web3 Blockchain Enthusiast </h2>
+<h4 style="color:blue;text-align:center">Hi, I'm <a href>Ademola Quozeem</a></h4>
 </hr>
+Quozeem is a Software Full-Stack developer with the use of sophisticated programming languages along side with Third Party Api. He’s prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡.
+
+<h3>Passionate Web Developer | Web3 Blockchain Enthusiast </h3>
+</hr>
+<h2>Technical Skills 🛠</h2>
+I have learned web-development and having knowledge of HTML,CSS & Javascript,,Php Laravel, Jquery ,React Js and ReactJs.
+C C++ Python Java HTML5 CSS3 JavaScript TensorFlow scikit learn Keras Numpy Pandas MySQL MongoDB NodeJs npm Express.js OpenCV Jupyter ReactJs jQuery Kubernets firebase Git Google Cloud Microsoft Azure VS Code Flutter IntelliJIDEA
 <!--
 **Quozeem/Quozeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
