@@ -1,11 +1,11 @@
-<h4 style=`background-color:red`>Hi, I'm <a href>Ademola Quozeem</a></h4>
+<h4>Hi, I'm <a href>Ademola Quozeem</a></h4>
 <hr>
 Quozeem is a Software Full-Stack developer with the use of sophisticated programming languages along side with Third Party Api. He’s prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡.
 
 <h3>Passionate Web Developer | Web3 Blockchain Enthusiast </h3>
 </hr>
 <h2>Technical Skills 🛠</h2>
-I have learned web-development and having knowledge of HTML,CSS,Sass & Javascript,Php & Laravel, Jquery ,Typescripting and ReactJs.
+I have learned web-development and having knowledge of ## HTML,## CSS,## Sass & Javascript,Php & Laravel, Jquery ,Typescripting and ReactJs.
 <form>
 <button>Vll</button>
 </form>
