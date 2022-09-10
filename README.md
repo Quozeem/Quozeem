@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi I'm <h4 style="color:blue">Ademola Quozeem</h4>
+<hr>
+Quozeem is a Software Full-Stack developer with the use of sophisticated programming languages along side with Third Party Api. He’s prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages .
 
+<h2>Passionate Web Developer | Web3 Blockchain Enthusiast </h2>
+</hr>
 <!--
 **Quozeem/Quozeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
