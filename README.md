@@ -6,7 +6,7 @@ Quozeem is a Software Full-Stack developer with the use of sophisticated program
 </hr>
 <h2>Technical Skills 🛠</h2>
 I have learned web-development and having knowledge of HTML,CSS & Javascript,,Php Laravel, Jquery ,React Js and ReactJs.
-C C++ Python Java HTML5 CSS3 JavaScript TensorFlow scikit learn Keras Numpy Pandas MySQL MongoDB NodeJs npm Express.js OpenCV Jupyter ReactJs jQuery Kubernets firebase Git Google Cloud Microsoft Azure VS Code Flutter IntelliJIDEA
+<button>Html</button>
 <!--
 **Quozeem/Quozeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
