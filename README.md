@@ -5,10 +5,9 @@ Quozeem is a Software Full-Stack developer with the use of sophisticated program
 <h3>Passionate Web Developer | Web3 Blockchain Enthusiast </h3>
 </hr>
 <h2>Technical Skills 🛠</h2>
-I have learned web-development and having knowledge of ## HTML,## CSS,## Sass & Javascript,Php & Laravel, Jquery ,Typescripting and ReactJs.
-<form>
-<button>Vll</button>
-</form>
+ ##HTM
+I have learned web-development and having knowledge of ##HTML,## CSS,## Sass & Javascript,Php & Laravel, Jquery ,Typescripting and ReactJs.
+
 <!--
 **Quozeem/Quozeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
