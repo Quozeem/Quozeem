@@ -6,7 +6,6 @@ Quozeem is a Software Full-Stack developer with the use of sophisticated program
 </hr>
 <h2>Technical Skills 🛠</h2>
 I have learned web-development and having knowledge of HTML,CSS,Sass & Javascript,Php & Laravel, Jquery ,Typescripting and ReactJs.
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642](https://user-images.githubusercontent.com/72305068/189480276-2a733179-84b9-42bc-af46-1005518eff71.svg)
 
 <!--
 **Quozeem/Quozeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
