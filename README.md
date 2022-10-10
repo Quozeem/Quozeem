@@ -5,6 +5,7 @@ Quozeem is a Software Full-Stack developer with the use of sophisticated program
 
 <h2>Technical Skills 🛠</h2>
 
+
 I have learned web-development and having knowledge in HTML5,CSS3 ,Sass & Javascript, Jquery,PHP & Laravel,Typescripting and ReactJs.
 
 
