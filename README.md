@@ -1,5 +1,5 @@
 <h4>Hi, I'm <a href>Ademola Quozeem</a></h4>
-Quozeem is a Software Full-Stack developer with the use of sophisticated programming languages, also APIs integration. He’s prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡.
+Quozeem is a Software Full-Stack developer with the use of sophisticated programming languages, also API's integration. He’s prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡.
 
 <h3>Passionate Web Developer | Web3 Blockchain Enthusiast </h3>
 
