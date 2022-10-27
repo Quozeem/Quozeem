@@ -16,6 +16,7 @@ I have learned web-development and having knowledge in HTML5,CSS3/Sass,Javascrip
 <h2>Let's Get Connected</h2>
 
 <a href="https://www.linkedin.com/in/ademola-quozeem-41b246198/">
+
    ![](https://user-images.githubusercontent.com/72305068/189481583-9c515c9b-27d1-4acd-be09-30e1fa752867.svg)
 </a>
 
