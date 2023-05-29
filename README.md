@@ -1,5 +1,5 @@
 <h4>Hi, I'm<a href> Ademola Quozeem</a></h4>
-a Software Full-Stack developer with sophisticated programming languages, APIs Integration,i'm familiar with Cloud Computing using Lambda Aws via Laravel vapor Serverless, also Continuous Integration (CI) and Continuous Deployment (CD) pipeline using Jenkins Tools. He’s prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡.
+a Software Full-Stack developer with sophisticated programming languages, APIs Integration,i'm familiar with Cloud Computing using Lambda Aws via Laravel vapor Serverless, likewise Continuous Integration (CI) and Continuous Deployment (CD) pipeline using Jenkins Tools. He’s prolific and always willing to learn, have really worked on some projects that has been of great advantage to my skills and improved my knowledge, Not only my improvements to the computer programming languages ⚡.
 
 <h3>Passionate Web Developer | Web3 Blockchain Enthusiast </h3>
 
