@@ -1,5 +1,9 @@
 <h4>Hi, I'm<a href> Ademola Quozeem</a></h4>
- a graduate of Mechanical Engineering and an accomplished Software Engineer with expertise in a variety of programming languages. I have successfully completed diverse projects across multiple industries, contributing significantly to the advancement of my skills and the technological landscape. Additionally, I am an avid Web3 enthusiast. ⚡.I possess a deep understanding of API integration principles and have experience deploying applications on Amazon Web Services (AWS) using both Lambda and EC2 instances.  I am proficient in leveraging Laravel Vapor for serverless deployment.
+ Mechanical Engineering graduate and Software Engineer with deep expertise in API integrations, cloud infrastructure (AWS, Lambda, EC2, Laravel Vapor), and modern web development. I build scalable, production-grade systems that solve real-world problems.
+
+I thrive in technical environments—designing robust architectures, optimizing performance, and debugging complex systems end-to-end. With a strong foundation in engineering principles and a pragmatic approach to software, I bring clarity and results to every project.
+
+Always learning. Always shipping. Always solving⚡.
 
 <h3>Passionate Web Developer | Web3 Blockchain Enthusiast </h3>
 
